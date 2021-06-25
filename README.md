@@ -1,3 +1,6 @@
+# CURRENT PROBLEMS
+So um, I don't play Friday Night Funkin' Normally, but if you do, please contact me on discord at mangoess#6663 to help me in this project :smiley:
+
 # FridayNightCheating
 A modification that you can put on FridayNightFunkin' to speed up the process a bit...
 
